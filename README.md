@@ -6,4 +6,4 @@ Además, al hacer clic en el botón **Change to Shiny** se debe cargar la imagen
 
 ## BONUS
 Existe una bilbioteca para facilitar la comunicación con esta API.
-Búscala en la documentación y úsala en vez de hacer las llamadas directamente a la API.
+Búscala en la documentación y úsal 
